@@ -22,6 +22,14 @@ cd todo-list-docker
 npm install
 ```
 
+### Create `.env` file for the Environment variables:
+You may refer to .env.example file on the repo or code below for the structure.
+```
+PORT=
+MONGODB_URL=
+SECRET=
+```
+
 ### Usage
 Start the server (Node/Docker):
 
