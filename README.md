@@ -26,11 +26,11 @@ npm install
 Start the server (Node/Docker):
 
 ```
-npm start (Node command)
+npm start
 
 OR
 
-docker-compose up --build (Docker command)
+docker-compose up --build
 ```
 
 The application will be running on http://localhost:5000.
